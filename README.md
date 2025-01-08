@@ -1,6 +1,6 @@
 ### 💬  Let's Talk
 
-<a href="https://google.gr"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
+<a href="https://google.gr"><img width="32px" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
 
 
 ### Familiar with
