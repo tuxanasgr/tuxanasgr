@@ -19,4 +19,4 @@ My name is Alexandros Anastasiadis,  i'm Front-end Developer from Greece.
 
 ### 👓 Familiar with
 
-<img src="https://skillicons.dev/icons?i=sass,ts,js,react,redux,nextjs,jest,docker,wordpress,vscode,alpinejs,tailwind,vite,git&theme=dark&perline=7" width="250px"/>
+<img src="https://skillicons.dev/icons?i=sass,ts,js,react,redux,nextjs,jest,docker,wordpress,php,vscode,alpinejs,webpack,tailwind,vite,git&theme=dark&perline=8" width="250px"/>
