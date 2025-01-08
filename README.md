@@ -1,3 +1,10 @@
+
+
+### 👋  Hi Everyone
+
+My name is Alexandros Anastasiadis or (tuxanasgr) because i love Linux and penguins 😛.
+
+
 ### 💬  Let's Talk
 
 <a href="https://linkedin.com/in/tuxanasgr"><img width="30px" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
