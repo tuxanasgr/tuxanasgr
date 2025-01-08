@@ -2,7 +2,7 @@
 
 ### 👋  Hi Everyone
 
-My name is Alexandros Anastasiadis,  i'm *** Front-end && JS Developer*** from Greece.
+My name is Alexandros Anastasiadis,  i'm ***Front-end && JS Developer*** from Greece.
 
 
 #### 📖 I'm currently
