@@ -4,10 +4,10 @@
 
 My name is Alexandros Anastasiadis,  i'm ***Front-end / JS Developer*** from Greece.
 
-> Take a look into my [Personal blog](https://tuxanasgr.github.io) with articles arround technology and programming.
+> 👉 Take a look into my [Personal blog](https://tuxanasgr.github.io) with articles arround technology and programming.
 
 
-#### 🔥 I'm currently
+#### ⚡ I'm currently
 - Learning Godot 4 and Phaser.js
 - Writing tech articles in my personal page
 - Working on my personal projects
@@ -19,6 +19,6 @@ My name is Alexandros Anastasiadis,  i'm ***Front-end / JS Developer*** from Gre
 <a href="https://instagram.com/tuxanasgr"><img width="28px" src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=1"/></a>
 <a href="mailto:alexanastagr@gmail.com"><img width="28px" src="https://skillicons.dev/icons?i=gmail&theme=light&perline=1"/></a>
 
-### 👓 Familiar with
+### 🚀 Familiar with
 
-<img src="https://skillicons.dev/icons?i=sass,ts,js,react,redux,nextjs,jest,docker,wordpress,php,vscode,alpinejs,webpack,tailwind,vite,git&theme=dark&perline=8" width="290px"/>
+<img src="https://skillicons.dev/icons?i=sass,ts,js,react,redux,nextjs,jest,docker,wordpress,php,vscode,alpinejs,vercel,tailwind,vite,git&theme=dark&perline=8" width="250px"/>
