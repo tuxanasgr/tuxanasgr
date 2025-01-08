@@ -5,6 +5,11 @@
 My name is Alexandros Anastasiadis or (tuxanasgr) because i love Linux and penguins 😛.
 
 
+#### I'm currently
+- Learning Godot 4 and Phaser.js
+- Writing tech articles in my personal page
+- Working on my personal projects
+
 ### 💬  Let's Talk
 
 <a href="https://linkedin.com/in/tuxanasgr"><img width="30px" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
@@ -12,7 +17,7 @@ My name is Alexandros Anastasiadis or (tuxanasgr) because i love Linux and pengu
 <a href="https://instagram.com/tuxanasgr"><img width="30px" src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=1"/></a>
 <a href="mailto:alexanastagr@gmail.com"><img width="30px" src="https://skillicons.dev/icons?i=gmail&theme=light&perline=1"/></a>
 
-### Familiar with
+### 👓 Familiar with
 
 > Some of tools and libraries who makes my life easier are:
 
