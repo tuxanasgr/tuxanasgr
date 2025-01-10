@@ -4,7 +4,6 @@
 
 My name is Alexandros Anastasiadis,  i'm ***Front-end / JS Developer*** from Greece.
 
-> 👉 Take a look into my [Personal blog](https://tuxanasgr.github.io) with articles arround technology and programming.
 
 
 #### ⚡ I'm currently
@@ -14,9 +13,9 @@ My name is Alexandros Anastasiadis,  i'm ***Front-end / JS Developer*** from Gre
 
 ### 💬  Let's Talk
 
-<a href="https://linkedin.com/in/tuxanasgr"><img width="28px" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
+<a href="https://linkedin.com/in/alexanastagr"><img width="28px" src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1"/></a>
 <a href="https://codepen.io/tuxanasgr"><img width="28px" src="https://skillicons.dev/icons?i=codepen&theme=dark&perline=1"/></a>
-<a href="https://instagram.com/tuxanasgr"><img width="28px" src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=1"/></a>
+<a href="https://instagram.com/alexanastagr"><img width="28px" src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=1"/></a>
 <a href="mailto:alexanastagr@gmail.com"><img width="28px" src="https://skillicons.dev/icons?i=gmail&theme=light&perline=1"/></a>
 
 ### 🚀 Familiar with
