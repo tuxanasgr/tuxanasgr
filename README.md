@@ -21,4 +21,4 @@ My name is Alexandros Anastasiadis,  i'm ***Front-end / React.js Developer*** fr
 
 ### 🚀 Familiar with
 
-<img src="https://skillicons.dev/icons?i=sass,ts,js,react,redux,nextjs,jest,docker,wordpress,php,vscode,alpinejs,vercel,tailwind,vite,git&theme=dark&perline=8" width="250px"/>
+<img src="https://skillicons.dev/icons?i=ts,js,electron,react,redux,nextjs,docker,laravel,php,mysql,python,qt,wordpress,git,sass,vite,jest,astro&theme=dark&perline=8" width="250px"/>
